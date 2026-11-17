@@ -3,7 +3,7 @@ name = "SigmaOS-libxkbcommon"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "libxkbcommon component"
+description = "SigmaOS SigmaOS-libxkbcommon component"
 upstream = []
 
 [contract]
